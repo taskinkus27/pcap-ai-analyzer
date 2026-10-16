@@ -1,0 +1,6 @@
+{
+  "name": "AI Destekli PCAP/Wireshark Paket Analizörü",
+  "description": "Python Scapy ve Wireshark .pcap/.pcapng dosyalarını ayrıştıran, port taraması ve anormal payload tespiti yapan ve Google Gemini AI ile siber saldırı/anomali analiz raporu üreten ağ güvenlik platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
